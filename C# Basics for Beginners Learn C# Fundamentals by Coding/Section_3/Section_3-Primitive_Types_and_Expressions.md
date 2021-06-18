@@ -71,3 +71,21 @@ b = b + 1;
 ```
 
 an exception will be thrown.
+
+# Scope
+
+Scope determines where a value has meaning and is accessible. A variable has a scope in the
+block it is defined and in any child blocks. But it is not accessible outside that block. A block is
+indicated by curly braces ({ }).
+
+```csharp
+{
+  byte a = 1;
+  {
+    byte b = 2;
+    {
+      byte c = 3;
+    }
+  }
+}
+```

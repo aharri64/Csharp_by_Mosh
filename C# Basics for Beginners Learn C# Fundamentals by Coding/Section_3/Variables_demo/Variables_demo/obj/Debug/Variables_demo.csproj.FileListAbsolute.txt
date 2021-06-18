@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\obj\Debug\Variables_demo.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\obj\Debug\Variables_demo.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\bin\Debug\Variables_demo.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\bin\Debug\Variables_demo.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\bin\Debug\Variables_demo.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\obj\Debug\Variables_demo.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_3\Variables_demo\Variables_demo\obj\Debug\Variables_demo.pdb
