@@ -150,3 +150,21 @@ indicated by curly braces ({ }).
   - Or 
     - |
 
+# Comments
+
+- Single line comment
+```csharp
+// Here is a single-line comment
+int a = 1;
+```
+- multi-line comments
+```csharp
+/*
+Here is a multi-line
+comment
+*/
+int a = 1;
+```
+
+## When to use
+- To explain whys, hows, constraints, etc. not the whats.
