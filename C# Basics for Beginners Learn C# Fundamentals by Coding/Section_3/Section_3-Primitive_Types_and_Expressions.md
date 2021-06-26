@@ -89,3 +89,64 @@ indicated by curly braces ({ }).
   }
 }
 ```
+# C# Operators
+
+- Arithmetic Operators
+  - use when working with numbers
+  - increment
+    - (++)
+      - example: a++
+      - same as: a = a + 1
+  - decrement
+    - (--)
+      - example: a--
+      - same as: a = a - 1
+  - can use as postfix increment
+  ```csharp
+    int a = 1;
+    int b = a++;
+  ```
+    - after the second line is executed, a = 2 and b = 1
+  - can use as prefix
+  ```csharp
+    int a = 1;
+    int b = ++a;
+  ```
+  - after the sexond line is executed, both a and b will = 2
+- Comparison Operators
+  - Equal  
+    - ( == )
+  - Not Equal
+    - ( != )
+  - Greater Than
+    - ( > )
+  - Greater than or equal to
+    - ( >= )
+  - less than
+    - ( < )
+  - less than or equal to
+    - ( <= )
+- Assignment Operators
+  - Assignment
+    - ( = )
+  - Addition Assignment
+    - ( += )
+  - Subtraction Assignment
+    - ( -= )
+  - Multiplication Assignment
+    - ( *= )
+  - Division Assignment
+    - ( /= )
+- Logical Operators
+  - And
+    - &&
+  - Or
+    - ||
+  - Not
+    - !/
+- Bitwise Operators
+  - And
+    - &
+  - Or 
+    - |
+
