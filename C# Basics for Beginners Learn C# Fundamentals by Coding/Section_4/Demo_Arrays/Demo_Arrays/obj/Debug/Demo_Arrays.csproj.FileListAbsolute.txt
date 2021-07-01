@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\bin\Debug\Demo_Arrays.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\bin\Debug\Demo_Arrays.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\bin\Debug\Demo_Arrays.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\obj\Debug\Demo_Arrays.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\obj\Debug\Demo_Arrays.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\obj\Debug\Demo_Arrays.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo_Arrays\Demo_Arrays\obj\Debug\Demo_Arrays.pdb
