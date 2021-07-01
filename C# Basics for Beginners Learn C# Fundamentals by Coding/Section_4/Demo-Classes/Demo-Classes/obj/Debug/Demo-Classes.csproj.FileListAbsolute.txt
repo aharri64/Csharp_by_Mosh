@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\bin\Debug\Demo-Classes.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\bin\Debug\Demo-Classes.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\bin\Debug\Demo-Classes.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\obj\Debug\Demo-Classes.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\obj\Debug\Demo-Classes.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\obj\Debug\Demo-Classes.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Classes\Demo-Classes\obj\Debug\Demo-Classes.pdb
