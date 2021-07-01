@@ -55,3 +55,49 @@ int result = Calculator.Add(1, 2);
 ```
 
 when you add static, that modifier will be accessible through the class itself, not an object.
+
+# Structs
+
+### Declaring Structs
+
+short for structures
+
+```csharp
+public struct RgbColor
+{
+    public int Red;
+    public int Green;
+    public int Blue;
+}
+```
+99% of the time you will use a class not a struct.
+
+ - Use a structure when you want to define a small lightweight object.
+
+ # Arrays
+
+### What is an Array
+    - A data structure to store a collection of variables of the same type.
+### Declaring Arrays
+```csharp
+int number 1;
+int number 2;
+int number 3;
+// instead of declaring 3 different variables like above, you can declare and array like below.
+
+int[] numbers = new int[3];
+```
+### Initializing Arrays
+```csharp
+int[] numbers = new int[3];
+```
+
+### Access Array Elements
+```csharp
+int[] numbers = new int[3];
+
+numbers[0] = 1;
+numbers[1] = 2;
+numbers[2] = 3;
+
+```
