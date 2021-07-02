@@ -179,3 +179,23 @@ Use enums where you have a number of related Constants
 ```csharp
 var method = ShippingMethod.Express;
 ```
+
+# Reference Types and Value Types
+
+| Structures | Classes | 
+| --- | --- | 
+|primitive types|Arrays|
+|custom structures|Strings|
+||custom classes|
+
+- Value Types
+    - Structures
+        - allocated on stack
+        - memory allocation done automatically
+        - immediately removed when out of Scope
+
+- Reference Types
+    - Classes
+        - You need to allocate memory
+        - Memory allocated on heap
+        - Garbage collected by CLR
