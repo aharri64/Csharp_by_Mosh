@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\bin\Debug\Demo-Strings.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\bin\Debug\Demo-Strings.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\bin\Debug\Demo-Strings.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\obj\Debug\Demo-Strings.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\obj\Debug\Demo-Strings.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\obj\Debug\Demo-Strings.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Strings\Demo-Strings\obj\Debug\Demo-Strings.pdb
