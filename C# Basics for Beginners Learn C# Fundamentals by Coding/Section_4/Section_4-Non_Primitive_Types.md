@@ -154,3 +154,28 @@ string path = "c:\\projects\\project1\\folder1";
 
 string path = @"c:\projects\project1\folder1";
 ```
+
+# Enums
+
+- A set of name/value pairs (constants).
+
+```csharp
+const int RegularAirMail = 1;
+const int RegisteredAirMail = 2;
+const int Express = 3;
+
+public enum ShippingMethod
+{
+    RegularAirMail = 1,
+    RegisteredAirMail = 2,
+    Express = 3
+}
+```
+Use enums where you have a number of related Constants
+- instead of declaring multiple constants
+
+#### Then you can use it with dot notation
+
+```csharp
+var method = ShippingMethod.Express;
+```
