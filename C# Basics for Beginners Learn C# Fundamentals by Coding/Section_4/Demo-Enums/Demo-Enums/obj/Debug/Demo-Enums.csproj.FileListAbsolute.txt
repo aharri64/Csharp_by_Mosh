@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\bin\Debug\Demo-Enums.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\bin\Debug\Demo-Enums.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\bin\Debug\Demo-Enums.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\obj\Debug\Demo-Enums.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\obj\Debug\Demo-Enums.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\obj\Debug\Demo-Enums.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Enums\Demo-Enums\obj\Debug\Demo-Enums.pdb
