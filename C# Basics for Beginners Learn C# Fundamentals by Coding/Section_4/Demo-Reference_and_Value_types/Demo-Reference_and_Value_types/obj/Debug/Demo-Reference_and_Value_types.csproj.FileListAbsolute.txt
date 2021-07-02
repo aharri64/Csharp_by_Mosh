@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\bin\Debug\Demo-Reference_and_Value_types.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\bin\Debug\Demo-Reference_and_Value_types.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\bin\Debug\Demo-Reference_and_Value_types.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\obj\Debug\Demo-Reference_and_Value_types.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\obj\Debug\Demo-Reference_and_Value_types.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\obj\Debug\Demo-Reference_and_Value_types.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Demo-Reference_and_Value_types\Demo-Reference_and_Value_types\obj\Debug\Demo-Reference_and_Value_types.pdb
