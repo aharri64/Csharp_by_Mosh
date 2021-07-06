@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\bin\Debug\Demo-While_loops.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\bin\Debug\Demo-While_loops.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\bin\Debug\Demo-While_loops.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\obj\Debug\Demo-While_loops.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\obj\Debug\Demo-While_loops.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\obj\Debug\Demo-While_loops.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-While_loops\Demo-While_loops\obj\Debug\Demo-While_loops.pdb
