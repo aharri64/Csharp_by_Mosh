@@ -1,0 +1,7 @@
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\bin\Debug\Demo-for_loops.exe.config
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\bin\Debug\Demo-for_loops.exe
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\bin\Debug\Demo-for_loops.pdb
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\obj\Debug\Demo-for_loops.csproj.AssemblyReference.cache
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\obj\Debug\Demo-for_loops.csproj.CoreCompileInputs.cache
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\obj\Debug\Demo-for_loops.exe
+C:\Users\adept\source\repos\Demo-for_loops\Demo-for_loops\obj\Debug\Demo-for_loops.pdb
