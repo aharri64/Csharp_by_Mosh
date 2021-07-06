@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\bin\Debug\Demo-Random.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\bin\Debug\Demo-Random.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\bin\Debug\Demo-Random.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\obj\Debug\Demo-Random.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\obj\Debug\Demo-Random.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\obj\Debug\Demo-Random.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Random\Demo-Random\obj\Debug\Demo-Random.pdb
