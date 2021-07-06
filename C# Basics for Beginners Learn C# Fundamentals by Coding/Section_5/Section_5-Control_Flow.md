@@ -58,3 +58,62 @@ switch(role)
 ```
 
 ### Conditional Operator: a ? b : c
+
+# Iteration Statements
+
+### For Loops
+
+initialization clause
+
+- var i = 0
+
+condition clause
+
+- i < 10
+
+Iteration clause
+
+- i++
+
+```csharp
+for (var i = 0; i < 10; i++)
+{
+    ...
+}
+```
+
+### Foreach Loops
+
+```csharp
+foreach (var number in numbers)
+{
+    ...
+}
+```
+
+### While Loops
+
+```csharp
+while (i < 10)
+{
+    ...
+    i++;
+}
+```
+
+### Do-While Loops
+
+```csharp
+do
+{
+    ...
+    i++;
+} while (i < 10);
+```
+
+- break
+
+  - jumps out of the loop
+
+- continue
+  - jumps into the next iteration
