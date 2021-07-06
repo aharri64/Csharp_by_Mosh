@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\bin\Debug\Demo-Foreach_loops.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\bin\Debug\Demo-Foreach_loops.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\bin\Debug\Demo-Foreach_loops.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\obj\Debug\Demo-Foreach_loops.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\obj\Debug\Demo-Foreach_loops.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\obj\Debug\Demo-Foreach_loops.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Demo-Foreach_loops\Demo-Foreach_loops\obj\Debug\Demo-Foreach_loops.pdb
