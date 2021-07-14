@@ -56,3 +56,5 @@ array[2] = new int[3];
 ```
 
 ## Array Methods
+
+[Array Methods](https://docs.microsoft.com/en-us/dotnet/api/system.array?view=net-5.0)
