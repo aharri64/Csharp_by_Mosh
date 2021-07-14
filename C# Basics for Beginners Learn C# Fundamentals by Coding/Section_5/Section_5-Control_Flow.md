@@ -112,8 +112,6 @@ do
 ```
 
 - break
-
   - jumps out of the loop
-
 - continue
   - jumps into the next iteration
