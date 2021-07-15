@@ -58,3 +58,26 @@ array[2] = new int[3];
 ## Array Methods
 
 [Array Methods](https://docs.microsoft.com/en-us/dotnet/api/system.array?view=net-5.0)
+
+# Lists
+
+## Arrays vs Lists
+
+- **Array**: fixed size
+- **List**: dynamic size
+
+## Creating Lists
+
+```csharp
+var numbers = new List<int>();
+```
+
+## Useful List Methods
+
+- Add()
+- AddRange()
+- Remove()
+- RemoveAt()
+- IndexOf()
+- Contains()
+- Count
