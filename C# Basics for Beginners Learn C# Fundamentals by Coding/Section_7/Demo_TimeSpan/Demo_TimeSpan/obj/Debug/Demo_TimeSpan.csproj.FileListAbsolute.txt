@@ -1,0 +1,7 @@
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\bin\Debug\Demo_TimeSpan.exe.config
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\bin\Debug\Demo_TimeSpan.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\bin\Debug\Demo_TimeSpan.pdb
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\obj\Debug\Demo_TimeSpan.csproj.AssemblyReference.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\obj\Debug\Demo_TimeSpan.csproj.CoreCompileInputs.cache
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\obj\Debug\Demo_TimeSpan.exe
+D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_7\Demo_TimeSpan\Demo_TimeSpan\obj\Debug\Demo_TimeSpan.pdb
