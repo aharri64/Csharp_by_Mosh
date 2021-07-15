@@ -69,4 +69,28 @@ DateTime maxDateTimeValue = DateTime.MaxValue; // returns max value of DateTime
 DateTime minDateTimeValue = DateTime.MinValue; // returns min value of DateTime
 ```
 
-# TimeSpan
+## TimeSpan
+
+TimeSpan is a struct that is used to represent time in days, hour, minutes, seconds, and milliseconds.
+
+#### Example: TimeSpan
+
+```csharp
+DateTime dt = new DateTime(2015, 12, 31);
+
+TimeSpan ts = new TimeSpan(25,20,55);
+
+DateTime newDate = dt.Add(ts);
+
+Console.WriteLine(newDate);//1/1/2016 1:20:55 AM
+```
+
+Subtraction of two dates results in TimeSpan.
+
+#### Example: Subtract Dates
+
+```csharp
+DateTime dt1 = new DateTime(2015, 12, 31);
+DateTime dt2 = new DateTime(2016, 2, 2);
+TimeSpan result = dt2.Subtract(dt1);//33.00:00:00
+```
