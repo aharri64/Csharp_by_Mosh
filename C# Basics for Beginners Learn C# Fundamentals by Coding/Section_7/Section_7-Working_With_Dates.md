@@ -94,3 +94,75 @@ DateTime dt1 = new DateTime(2015, 12, 31);
 DateTime dt2 = new DateTime(2016, 2, 2);
 TimeSpan result = dt2.Subtract(dt1);//33.00:00:00
 ```
+
+## Operators
+
+The DateTime struct overloads +, -, ==, !=, >, <, <=, >= operators to ease out addition, subtraction, and comparison of dates. These make it easy to work with dates.
+
+#### Example: Operators
+
+```csharp
+DateTime dt1 = new DateTime(2015, 12, 20);
+DateTime dt2 = new DateTime(2016, 12, 31, 5, 10, 20);
+TimeSpan time = new TimeSpan(10, 5, 25, 50);
+
+Console.WriteLine(dt2 + time); // 1/10/2017 10:36:10 AM
+Console.WriteLine(dt2 - dt1); //377.05:10:20
+Console.WriteLine(dt1 == dt2); //False
+Console.WriteLine(dt1 != dt2); //True
+Console.WriteLine(dt1 > dt2); //False
+Console.WriteLine(dt1 < dt2); //True
+Console.WriteLine(dt1 >= dt2); //False
+Console.WriteLine(dt1 <= dt2);//True
+```
+
+## Convert DateTime to String
+
+The DateTime struct includes the following methods to convert a date and time to string.
+|Method|Description|
+|---|---|
+|ToString|Converts a DateTime value to a string in the specified format of the current culture.|
+|ToShortDateString| Converts a DateTime value to a short date string (M/d/yyyy pattern) in the current culture.|
+|ToShortTimeString|Converts a DateTime value to a short time string (h:mm:ss pattern) in the current culture.|
+|ToLongDateString|Converts a DateTime value to a long date string (dddd, MMMM d, yyyy pattern) in the current culture.|
+|ToLongTimeString|Converts a DateTime value to a long time string (h:mm:ss tt pattern) in the current culture.|
+
+The following example demonstrates converting DateTime to strings in different formats.
+
+#### Example: DateTime to String
+
+```csharp
+var dt = DateTime.Now;
+
+Console.WriteLine("Date String Current Culture: " + dt.ToString("d"));
+Console.WriteLine("MM/dd/yyyy Format: " + dt.ToString("MM/dd/yyyy"));
+Console.WriteLine("dddd, dd MMMM yyyy Format: " + dt.ToString("dddd, dd MMMM yyyy"));
+Console.WriteLine("MM/dd/yyyy h:mm tt Format: " + dt.ToString("MM/dd/yyyy h:mm tt"));
+Console.WriteLine("MMMM dd Format:" + dt.ToString("MMMM dd"));
+Console.WriteLine("HH:mm:ss Format: " + dt.ToString("HH:mm:ss"));
+Console.WriteLine("hh:mm tt Format: " + dt.ToString("hh:mm tt"));
+Console.WriteLine("Short Date String: " + dt.ToShortDateString());
+Console.WriteLine("Long Date String: " + dt.ToLongDateString());
+Console.WriteLine("Short Time String: " + dt.ToShortTimeString());
+Console.WriteLine("Long Time String: " + dt.ToLongTimeString());
+```
+
+## Convert String to DateTime
+
+A valid date and time string can be converted to a DateTime object using Parse(), ParseExact(), TryParse() and TryParseExact() methods.
+
+The Parse() and ParseExact() methods will throw an exception if the specified string is not a valid representation of a date and time. So, it's recommended to use TryParse() or TryParseExact() method because they return false if a string is not valid.
+
+#### Example:
+
+```csharp
+var str = "5/12/2020";
+DateTime dt;
+
+var isValidDate = DateTime.TryParse(str, out dt);
+
+if(isValidDate)
+    Console.WriteLine(dt);
+else
+    Console.WriteLine($"{str} is not a valid date string");
+```
