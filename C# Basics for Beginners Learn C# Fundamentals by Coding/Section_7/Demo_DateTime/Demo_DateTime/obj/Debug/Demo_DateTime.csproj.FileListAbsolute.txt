@@ -1,0 +1,7 @@
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\bin\Debug\Demo_DateTime.exe.config
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\bin\Debug\Demo_DateTime.exe
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\bin\Debug\Demo_DateTime.pdb
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\obj\Debug\Demo_DateTime.csproj.AssemblyReference.cache
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\obj\Debug\Demo_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\obj\Debug\Demo_DateTime.exe
+C:\Users\adept\source\repos\Demo_DateTime\Demo_DateTime\obj\Debug\Demo_DateTime.pdb
