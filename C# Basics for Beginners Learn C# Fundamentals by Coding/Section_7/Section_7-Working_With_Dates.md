@@ -54,4 +54,19 @@ DateTime.MinValue.Ticks;  //min value of ticks
 DateTime.MaxValue.Ticks; // max value of ticks
 ```
 
+## DateTime Static Fields
+
+The DateTime struct includes static fields, properties, and methods. The following example demonstrates important static fields and properties.
+
+#### Example: Static Fields
+
+```csharp
+DateTime currentDateTime = DateTime.Now;  //returns current date and time
+DateTime todaysDate = DateTime.Today; // returns today's date
+DateTime currentDateTimeUTC = DateTime.UtcNow;// returns current UTC date and time
+
+DateTime maxDateTimeValue = DateTime.MaxValue; // returns max value of DateTime
+DateTime minDateTimeValue = DateTime.MinValue; // returns min value of DateTime
+```
+
 # TimeSpan
