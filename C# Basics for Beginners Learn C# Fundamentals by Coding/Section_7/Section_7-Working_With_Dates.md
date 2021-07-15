@@ -44,4 +44,14 @@ Use different DateTime constructors to set date, time, time zone, calendar, and 
 
 ## Ticks
 
+Ticks is a date and time expressed in the number of 100-nanosecond intervals that have elapsed since January 1, 0001, at 00:00:00.000 in the Gregorian calendar. The following initializes a DateTime object with the number of ticks.
+
+#### Example: Ticks
+
+```csharp
+DateTime dt = new DateTime(636370000000000000);
+DateTime.MinValue.Ticks;  //min value of ticks
+DateTime.MaxValue.Ticks; // max value of ticks
+```
+
 # TimeSpan
