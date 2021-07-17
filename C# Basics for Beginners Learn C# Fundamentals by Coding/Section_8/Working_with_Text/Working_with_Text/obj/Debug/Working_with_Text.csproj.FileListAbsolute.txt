@@ -1,0 +1,7 @@
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\bin\Debug\Working_with_Text.exe.config
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\bin\Debug\Working_with_Text.exe
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\bin\Debug\Working_with_Text.pdb
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\obj\Debug\Working_with_Text.csproj.AssemblyReference.cache
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\obj\Debug\Working_with_Text.csproj.CoreCompileInputs.cache
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\obj\Debug\Working_with_Text.exe
+C:\Users\adept\source\repos\Working_with_Text\Working_with_Text\obj\Debug\Working_with_Text.pdb
