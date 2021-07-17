@@ -53,3 +53,13 @@ string s = i.ToString();        // "1234"
 string t = i.ToString("C");     // "$1,234.00"
 string t = i.ToString("C0");    // "$1,234"
 ```
+
+## String Builder
+
+- Defined in System.Text
+- A mutable string
+- Easy and fast to create and manipulate strings
+- Not for searching
+  - does not contain IndexOf(), LastIndexOf(), Contains(), StartsWith(), ...
+- Instead it has many methods for manipulating strings
+  - Append(), Insert(), Remove(), Replace(), Clear()
