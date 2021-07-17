@@ -1,0 +1,7 @@
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\obj\Debug\Summarising Text.csproj.AssemblyReference.cache
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\obj\Debug\Summarising Text.csproj.CoreCompileInputs.cache
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\bin\Debug\Summarising Text.exe.config
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\bin\Debug\Summarising Text.exe
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\bin\Debug\Summarising Text.pdb
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\obj\Debug\Summarising Text.exe
+C:\Users\adept\source\repos\Summarising Text\Summarising Text\obj\Debug\Summarising Text.pdb

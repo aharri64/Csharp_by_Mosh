@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D58AB543-3FBD-44E0-9328-993C353223CE}</ProjectGuid>
+    <ProjectGuid>{E4755188-9F5E-46FE-A81C-3809861C05E5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Summarising_Text</RootNamespace>
-    <AssemblyName>Summarising_Text</AssemblyName>
+    <AssemblyName>Summarising Text</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
