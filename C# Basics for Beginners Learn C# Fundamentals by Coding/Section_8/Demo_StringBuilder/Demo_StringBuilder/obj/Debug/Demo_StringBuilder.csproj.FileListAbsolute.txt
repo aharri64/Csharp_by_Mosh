@@ -1,0 +1,7 @@
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\obj\Debug\Demo_StringBuilder.csproj.AssemblyReference.cache
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\obj\Debug\Demo_StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\bin\Debug\Demo_StringBuilder.exe.config
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\bin\Debug\Demo_StringBuilder.exe
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\bin\Debug\Demo_StringBuilder.pdb
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\obj\Debug\Demo_StringBuilder.exe
+C:\Users\adept\source\repos\Demo_StringBuilder\Demo_StringBuilder\obj\Debug\Demo_StringBuilder.pdb
