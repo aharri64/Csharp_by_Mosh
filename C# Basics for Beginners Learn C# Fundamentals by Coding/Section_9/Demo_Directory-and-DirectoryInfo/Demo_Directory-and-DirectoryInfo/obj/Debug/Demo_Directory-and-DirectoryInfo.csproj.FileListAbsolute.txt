@@ -1,0 +1,7 @@
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\bin\Debug\Demo_Directory-and-DirectoryInfo.exe.config
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\bin\Debug\Demo_Directory-and-DirectoryInfo.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\bin\Debug\Demo_Directory-and-DirectoryInfo.pdb
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\obj\Debug\Demo_Directory-and-DirectoryInfo.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\obj\Debug\Demo_Directory-and-DirectoryInfo.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\obj\Debug\Demo_Directory-and-DirectoryInfo.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Directory-and-DirectoryInfo\Demo_Directory-and-DirectoryInfo\obj\Debug\Demo_Directory-and-DirectoryInfo.pdb
