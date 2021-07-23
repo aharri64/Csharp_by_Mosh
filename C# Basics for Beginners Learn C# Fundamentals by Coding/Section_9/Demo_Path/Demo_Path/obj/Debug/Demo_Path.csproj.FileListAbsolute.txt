@@ -1,0 +1,7 @@
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\bin\Debug\Demo_Path.exe.config
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\bin\Debug\Demo_Path.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\bin\Debug\Demo_Path.pdb
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\obj\Debug\Demo_Path.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\obj\Debug\Demo_Path.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\obj\Debug\Demo_Path.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_9\Demo_Path\Demo_Path\obj\Debug\Demo_Path.pdb
