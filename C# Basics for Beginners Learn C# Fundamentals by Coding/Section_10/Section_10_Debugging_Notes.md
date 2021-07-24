@@ -13,8 +13,10 @@
 - Step out
   - SHIFT + F11
 - Stop debugger
-
   - SHIFT + F5
+- continue until the next breakpoint
+
+  - F5
 
 - The watch window
   - debug > Windows > Watch > Watch 1
