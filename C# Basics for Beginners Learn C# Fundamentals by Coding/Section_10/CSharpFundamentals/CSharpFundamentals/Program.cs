@@ -7,7 +7,7 @@ namespace CSharpFundamentals
     {
         public static void Main(string[] args)
         {
-            var numbers = new List<int> { 1, 2 };
+            var numbers = new List<int> { 1, 2, 3, 4, 5, 6 };
             var smallests = GetSmallests(numbers, 3);
 
             foreach (var number in smallests)
@@ -16,6 +16,12 @@ namespace CSharpFundamentals
 
         public static List<int> GetSmallests(List<int> list, int count)
         {
+            if (list.Count == null)
+                throw new ArgumentNullException("List");
+                
+            if (count > list.Count || count <= 0)
+                throw new ArgumentOutOfRangeException("count", "Count should be between 1 and the number of elements");
+
             var buffer = new List<int>(list);
             var smallests = new List<int>();
 
