@@ -5,3 +5,10 @@ D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Codi
 D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.csproj.CoreCompileInputs.cache
 D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.exe
 D:\Projects\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_4\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.pdb
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\bin\Debug\Practice_Conditionals.exe.config
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\bin\Debug\Practice_Conditionals.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\bin\Debug\Practice_Conditionals.pdb
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.exe
+D:\Projects\Udemy\Csharp_by_Mosh\C# Basics for Beginners Learn C# Fundamentals by Coding\Section_5\Practice_Conditionals\Practice_Conditionals\obj\Debug\Practice_Conditionals.pdb

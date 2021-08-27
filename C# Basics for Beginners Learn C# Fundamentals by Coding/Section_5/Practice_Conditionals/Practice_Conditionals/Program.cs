@@ -18,6 +18,22 @@ namespace Practice_Conditionals
             //(This logic is used a lot in applications where values entered into input boxes need to be validated.)
 
             //Pick a number between 1 and 10
+            Console.Write("Please Enter a number between 1 and 10: ");
+            var input = Console.ReadLine();
+            var numberChosen = Convert.ToInt32(input);
+
+            if (numberChosen >= 1 && numberChosen <= 10)
+            {
+                var chosenNumberValid = $"You have chosen {numberChosen} \nThis number is valid";
+                Console.WriteLine(chosenNumberValid);
+            }
+            else
+            {
+                Console.WriteLine("This number is invalid");
+            }
+
+            /*
+            My answer
             int numberChosen = 16;
 
             if (numberChosen > 0 && numberChosen <= 10)
@@ -29,10 +45,33 @@ namespace Practice_Conditionals
             {
                 Console.WriteLine("You have chosen an invalid number");
             }
+            */
 
             //2
             //Write a program which takes two numbers from the console and displays the maximum of the two.
 
+            Console.Write("Please enter the first number: ");
+            var firstInput = Console.ReadLine();
+            Console.Write("Please enter the second number: ");
+            var secondInput = Console.ReadLine();
+            var firstNumber = Convert.ToInt32(firstInput);
+            var secondNumber = Convert.ToInt32(secondInput);
+
+            if (firstNumber > secondNumber)
+            {
+                Console.WriteLine($"{firstNumber} is bigger than {secondNumber}");
+            }
+            else if (firstNumber < secondNumber)
+            {
+                Console.WriteLine($"{firstNumber} is smaller than {secondNumber}");
+            }
+            else
+            {
+                Console.WriteLine("They are the same number");
+            }
+
+            /*
+            My Answer
             var numberOne = 6;
             var numberTwo = 4;
 
@@ -44,11 +83,14 @@ namespace Practice_Conditionals
             {
                 Console.WriteLine(string.Format("Number One is {0} and it is smaller than Number Two which is {1}", numberOne, numberTwo));
             }
+            */
 
             //3
             //Write a program and ask the user to enter the width and height of an image.
             //Then tell if the image is landscape or portrait.
 
+            /*
+            My Answer 
             var Width = 4;
             var Height = 3;
 
@@ -60,6 +102,7 @@ namespace Practice_Conditionals
             {
                 Console.WriteLine("This picture is a Portrait");   
             }
+            */
 
             //4
             //Your job is to write a program for a speed camera.
@@ -71,6 +114,8 @@ namespace Practice_Conditionals
             //For every 5km / hr above the speed limit, 1 demerit points should be incurred and displayed on the console.
             //If the number of demerit points is above 12, the program should display License Suspended.
 
+            /*
+            My Answer
             var speedOfCar = 56;
             var speedLimit = 45;
 
@@ -86,6 +131,7 @@ namespace Practice_Conditionals
             {
                 Console.WriteLine("You have received 2 demerits");
             }
+            */
         }
     }
 }
