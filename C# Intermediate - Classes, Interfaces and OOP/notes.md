@@ -64,3 +64,5 @@ To put an object in an early state.
 
 **Constructor Overloading**
 ![Example of Constructor Overloading](./pics/constructoroverloading.png)
+
+- **Overloading** - Having a method of the same name but different signatures
