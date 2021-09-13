@@ -123,6 +123,28 @@ This is inefficient and no one really uses it
 ![refmodifier](./pics/refmodifier.png)
 ![refmodifier2](./pics/refmodifier2.png)
 
-## Out Modifier
+### Out Modifier
 
 ![outmodifier](./pics/outmodifier.png)
+
+## Fields
+
+A field is a variable that we declare at the class level.
+
+### Initialization
+
+```csharp
+public class Customer
+{
+  List<Order> Orders = new List<Order>();
+}
+```
+
+### Read-Only Fields
+
+```csharp
+public class Customer
+{
+  List<Order> Orders = new List<Order>();
+}
+```
