@@ -66,3 +66,63 @@ To put an object in an early state.
 ![Example of Constructor Overloading](./pics/constructoroverloading.png)
 
 - **Overloading** - Having a method of the same name but different signatures
+
+---
+
+## Object Initializers
+
+- An object initializer is a syntax for quickly initializing an object without the need to call one of its constructors.
+
+- Why do you need one? To avoid creating multiple constructors
+
+This is how they used to do things
+![This is how they used to do things](./pics/ObjectInitializers.png)
+
+This is an object initializer
+![objectinitializerstrue](./pics/objectinitializerstrue.png)
+
+---
+
+## Methods
+
+### Agenda
+
+- Signature of methods
+- Method Overloading
+- Params modifier
+- Ref modifier
+- Out modifier
+
+### Signature of a Method
+
+- Consists of:
+  - Name
+  - Number nd Type of parameters
+
+![signatureofamethod](./pics/signatureofamethod.png)
+
+![methods1](./pics/methods1.png)
+
+### Method Overloading
+
+![methods2](./pics/methods2.png)
+_this is not efficient_
+
+![methods3](./pics/methods3.png)
+_this is much more efficient_
+
+_the problem is that when we want to pass a number of arguments to this add method, we have to create and initialize and array_
+
+### Params Modifier
+
+![methods4](./pics/methods4.png)
+
+### Ref Modifier
+
+This is inefficient and no one really uses it
+![refmodifier](./pics/refmodifier.png)
+![refmodifier2](./pics/refmodifier2.png)
+
+## Out Modifier
+
+![outmodifier](./pics/outmodifier.png)
